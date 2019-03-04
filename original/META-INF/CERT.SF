@@ -1,0 +1,286 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: +yoEg5thJsKcRrfjn2xHmiFGiXE=
+Created-By: 1.0 (Android)
+
+Name: assets/images/menu.png
+SHA1-Digest: TDerYbiT291ypA3rcmXr/7v5Wl8=
+
+Name: assets/images/nums/6.png
+SHA1-Digest: iYH0TCqlecvfvCagmb3bVVD6qB0=
+
+Name: assets/musik/bullet.mp3
+SHA1-Digest: JAygoTbLV/W47P2JDf5g6J7hCjs=
+
+Name: assets/musik/mortar.mp3
+SHA1-Digest: 9TF8lxs67LYWnk5Ph8YiI7tt5eM=
+
+Name: assets/images/button2.psd
+SHA1-Digest: xsG50U3+j5zDB1xHx8jkud9P2xI=
+
+Name: assets/images/finish_bye.png
+SHA1-Digest: /rRVhPMusn/Jx02tZwX0OPqcatU=
+
+Name: assets/images/wowcopy.png
+SHA1-Digest: pcnVbQuGO2/shx/wiEW5r9xJDGI=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: gR/EbJjLlgadtz2mj5djpsujWAI=
+
+Name: assets/maps/purple.png
+SHA1-Digest: P2Tople590HNP7+jM3/hmjPu5ns=
+
+Name: assets/maps/mapa.tmx
+SHA1-Digest: DDZajBiMl43Qhfsl+ndgL2+N8x0=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: assets/images/finish_fingers.png
+SHA1-Digest: 2443x74L3lLqaxEv+H6MkbIzaFc=
+
+Name: assets/images/desert.psd
+SHA1-Digest: 1WZZL5iNSpkShIF2CglInbflSQ4=
+
+Name: lib/armeabi/libgdx-box2d.so
+SHA1-Digest: Ido3eHVh/tM6lXwW3fN6lCq2rKo=
+
+Name: assets/maps/cloud.png
+SHA1-Digest: qo12yZOnteokCYnrKH6F0NlRA30=
+
+Name: assets/images/button.psd
+SHA1-Digest: ADcRBO1jN4Ovru32fmNwmkXMuBc=
+
+Name: assets/images/finish_bad.png
+SHA1-Digest: RDNk+zrKRIKqUEwKgZE6If5dqOI=
+
+Name: assets/images/nums/5.png
+SHA1-Digest: BOrQJD+cuG9iu3BwNSFFobXL7as=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl
+SHA1-Digest: B7Syss3zu86U1ZFVLp0aU7dm5b0=
+
+Name: lib/armeabi-v7a/libgdx-box2d.so
+SHA1-Digest: uGRlKY4VMOMxxQsnuN9EoVl//pc=
+
+Name: assets/images/menu.psd
+SHA1-Digest: sl9NLpCp/2zuBjxqI05tJY/JWJA=
+
+Name: com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl
+SHA1-Digest: HcrAcuBE0S5aKfEh9pSnSkZ/aDk=
+
+Name: assets/images/twins.png
+SHA1-Digest: AS116+GhGebyAhivuHD+e7O+bSs=
+
+Name: assets/images/finish.png
+SHA1-Digest: vxw9q0D9Q7j9EDDg3LCakvWMGdE=
+
+Name: assets/maps/blue.png
+SHA1-Digest: 5S9mxd9xkD7QU5fjRkfgiArryHw=
+
+Name: assets/images/background2.psd
+SHA1-Digest: prbv53XQdJUEtwBX4lYGhHOLg2I=
+
+Name: lib/armeabi-v7a/libgdx.so
+SHA1-Digest: /tPPxPZTWJl28vdKd8RHMsOT/Sc=
+
+Name: assets/images/nums/4.png
+SHA1-Digest: wpbyKpa6dfgGoszbAjofUp3Pp6w=
+
+Name: assets/images/play_again.png
+SHA1-Digest: qDMIcdlt0ltd1GX+7FxPTjVMbC8=
+
+Name: assets/images/finish_extrabad.png
+SHA1-Digest: dmet9dIJWOCb2nSyDygYX2NotfU=
+
+Name: com/badlogic/gdx/utils/arial-15.fnt
+SHA1-Digest: h1kLe7EvHfziUMbjLZoi18Hi4UI=
+
+Name: lib/armeabi/libgdx.so
+SHA1-Digest: 5qgHo41skDtPNEnpENRaaSduob8=
+
+Name: com/badlogic/gdx/utils/arial-15.png
+SHA1-Digest: zcxc3DgP9Ynv4SOhoUV2qAKs6oo=
+
+Name: assets/images/sound_off.png
+SHA1-Digest: 9SotTlsXqlR2ZLYIG7vcg/UFufY=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: F1zdExe/wl9e+WT9LuNUnagRbqM=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl
+SHA1-Digest: 05nQ8+l4IwIbQVhvIZWYSMXc49g=
+
+Name: assets/images/finish_force.png
+SHA1-Digest: l2IXqjXF5w4VTl17XNCjmulmdck=
+
+Name: assets/images/icon.psd
+SHA1-Digest: 27lrhbakYgLUqUvwBHIo7C528+k=
+
+Name: assets/images/zubicvila.psd
+SHA1-Digest: b7mwpGC9o/3K5nZQKO/nhqp+kNk=
+
+Name: assets/fonts/Nasho.fnt
+SHA1-Digest: fiMD7V+g3fnJFj5AH4vyeooyAwA=
+
+Name: com/badlogic/gdx/physics/box2d.gwt.xml
+SHA1-Digest: x7AQTWqYjfLtodj6zfo8sD105rI=
+
+Name: assets/fonts/Nasho.png
+SHA1-Digest: A2iv29o+IbkMNO+wQFDrTrW9dzI=
+
+Name: assets/images/nums/2.png
+SHA1-Digest: LgFq1wb9wZorbPu4M65f7gupciA=
+
+Name: assets/images/nums/3.png
+SHA1-Digest: rhB7FbxRfsLwfRirw2DdNs3J1pQ=
+
+Name: resources.arsc
+SHA1-Digest: cxEjQflIyplKisooFCAyg48vJhw=
+
+Name: lib/armeabi-v7a/libgdx-freetype.so
+SHA1-Digest: kbhWmeiLs0woFTaATXs9bunz8oo=
+
+Name: com/badlogic/gdx/utils/JsonReader.rl
+SHA1-Digest: IQQsWoNl/XQGsR2d3WsjELK7s/Q=
+
+Name: lib/x86/libgdx-box2d.so
+SHA1-Digest: K59URKMqUXNDDomewQ/EXvphKEs=
+
+Name: assets/images/background.png
+SHA1-Digest: jorvBQwGKeGXhcZRpXi8GRnQ+og=
+
+Name: lib/x86/libgdx-freetype.so
+SHA1-Digest: lHX7c1+UOkZMX55W8AtQIc9MyzM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: w6t2MKEj9YgpNFK3sM93a6U1B3E=
+
+Name: assets/musik/eksplozija.mp3
+SHA1-Digest: 9TbJEQ7m5T0SYPgetWeSFZSusWg=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: 7S0ljfFEcZVpcmJR4plbemnXi/I=
+
+Name: assets/images/finish_good.psd
+SHA1-Digest: JR3KjglOJyohUX1tvKEVP0G2zaM=
+
+Name: assets/images/nums/1.png
+SHA1-Digest: wHpqYDdh36nt+OK0UmUOpxINxIE=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: com/badlogic/gdx.gwt.xml
+SHA1-Digest: sVOyLHA8V/dlXmfE71HcwMed+a4=
+
+Name: assets/musik/hahahahhahah.mp3
+SHA1-Digest: NicVnq6u7uBLTc1t9JEc5fmDaak=
+
+Name: com/badlogic/gdx/utils/XmlReader.rl
+SHA1-Digest: 1wpP5g6N/Lspjbf9ozGM8y2GWPY=
+
+Name: assets/images/nums/0.png
+SHA1-Digest: EH6R46jUynOlI+kG/TZDrpu8z+I=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl
+SHA1-Digest: oDfQkYNflB57q8y2Bqrrwcvphlg=
+
+Name: assets/images/God Jab.psd
+SHA1-Digest: L3QhtNXeZG4TiYOH6rxXcoqPGeo=
+
+Name: assets/images/bigairp.png
+SHA1-Digest: OFOQFw2mlTbLJ4IKYvAkfnQbK8M=
+
+Name: assets/images/oblak1.psd
+SHA1-Digest: ORZwc2iWtMOtfX4LV9F8ETv4NmY=
+
+Name: assets/images/Finish Text.psd
+SHA1-Digest: QApRJniEuS6D5RSAdBwevLUcO7A=
+
+Name: assets/images/music_off.png
+SHA1-Digest: 9Z39cr9AxyurCqI8gPRJ/LXIbes=
+
+Name: assets/images/nums/9.png
+SHA1-Digest: Lvjx1or1YEJJfbHrGK4w9e39aaM=
+
+Name: assets/images/zubicvila.png
+SHA1-Digest: vWzaSjRh3HvuZymwK9/h2lAsPLw=
+
+Name: assets/images/background2.png
+SHA1-Digest: 9jbY3NNWJfDNhBVt7ZRdm3LqmrU=
+
+Name: lib/x86/libgdx.so
+SHA1-Digest: KxBSicM9JYvwFbKR8oYWvG7VFc0=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: assets/maps/orange.png
+SHA1-Digest: cL/8MvkXuT2t+QUYoQFj1chtRsw=
+
+Name: assets/maps/red.png
+SHA1-Digest: xVSjqtfIOYmnf9TjUpQ5d+eqtRc=
+
+Name: assets/images/finish_chicken.png
+SHA1-Digest: QZK3tGP+1jAPrdIW+QuZ8SDUXws=
+
+Name: assets/images/nums/8.png
+SHA1-Digest: ICKCqQcNbSScJN7zzrZt1ZGybhc=
+
+Name: assets/maps/cloud2.png
+SHA1-Digest: SKl++eCuDzbjdk8lATD2g2lzlFc=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl
+SHA1-Digest: //peP3ieaLy1IvnfuExcDIjsfSg=
+
+Name: assets/images/bigairp.psd
+SHA1-Digest: K4xI4CyxvTHd7iE+BjR9kk4iMj4=
+
+Name: assets/images/crystal.png
+SHA1-Digest: ncVVpBME72PV+oIIYxaWfFaU8dM=
+
+Name: lib/armeabi/libgdx-freetype.so
+SHA1-Digest: /m82uyFwpFdlt90SSeo3IXExXA8=
+
+Name: assets/maps/yellow.png
+SHA1-Digest: HgRk5H7MrF3ef4iIOl2lC4uWFrQ=
+
+Name: assets/images/sound_on.png
+SHA1-Digest: PHxQs2BRhwMcJgACTNR42kEJ7+8=
+
+Name: com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl
+SHA1-Digest: AqRJA/2OFee7amNQ5NZn77eUCYE=
+
+Name: assets/fonts/Nash.otf
+SHA1-Digest: Xh5bju5chw9/cRs8u1hTKiSF6LA=
+
+Name: assets/images/music_on.png
+SHA1-Digest: hRKmFcadceu1MEKdLBFQA9MW2uA=
+
+Name: assets/images/nums/7.png
+SHA1-Digest: I42a5u+wqGa3z2bSYQSmXl24stc=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: sOfvfNo1iEfscuQXxkq0tKFC5x4=
+
+Name: assets/images/desert.png
+SHA1-Digest: 20URdMHMRD/mq+BI8r9QAURd7FA=
+
+Name: assets/images/background.psd
+SHA1-Digest: b6A2uskOmNVQKoLgNH3xa7anEAo=
+
+Name: assets/fonts/Nash.png
+SHA1-Digest: U3xnGosGPp2WsfTyK2IMUQ6mQlg=
+
+Name: classes.dex
+SHA1-Digest: AimdFgfSk5yHiJq6sl4mi/LORL0=
+
+Name: assets/fonts/Nash.fnt
+SHA1-Digest: XFGw96lkSyp59PY3a6mKS9qONfs=
+
+Name: assets/maps/green.png
+SHA1-Digest: N0kGSMFEyd7Y3sHKwZ107TfhNLI=
+
